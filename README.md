@@ -20,6 +20,7 @@ there are no ratings, prices, or maintenance-status labels here on purpose.
   - [Open source](#open-source)
   - [Proprietary](#proprietary)
 - [Network controller clients](#network-controller-clients)
+- [Research](#research)
 - [Tools and data](#tools-and-data)
 - [Training and reference](#training-and-reference)
 - [Adjacent](#adjacent)
@@ -67,6 +68,15 @@ traffic alone.
 - [EuroScope](https://www.euroscope.hu/wp/) - VATSIM radar scope, extensible through plugins.
 - [vatSys](https://virtualairtrafficsystem.com/) - Controller client for VATSIM, modeled on the Eurocat/TopSky ATC system.
 - [VRC](https://vrc.rosscarlson.dev/) - Radar client for VATSIM, designed for multi-monitor setups.
+
+## Research
+
+Simulators and environments built for studying the air traffic system rather than
+for practising the job.
+
+- [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - Open source air traffic simulator from TU Delft, for fast-time simulation of conventional and UTM traffic.
+- [BlueSky-Gym](https://github.com/TUDelft-CNS-ATM/bluesky-gym) - Gymnasium-style environments for reinforcement learning research in air traffic management, built on BlueSky.
+- [BluebirdATC](https://github.com/project-bluebird/BluebirdATC) - Digital twin of UK airspace for ATC simulation and a training environment for AI agents, from the NATS, Exeter and Alan Turing Institute partnership.
 
 ## Tools and data
 
