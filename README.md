@@ -77,9 +77,9 @@ this field (NASA's FACET and Sherlock, EUROCONTROL's NEST and BADA) is internal 
 license-gated and has no public release to link.
 
 - [AirTrafficSim](https://github.com/HKUST-OCTAD-LAB/AirTrafficSim) - Web-based air traffic simulation and visualization platform for ATM research, with an integrated weather database.
+- [BluebirdATC](https://github.com/project-bluebird/BluebirdATC) - Digital twin of UK airspace for ATC simulation and a training environment for AI agents, from the NATS, Exeter and Alan Turing Institute partnership.
 - [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - Open source air traffic simulator from TU Delft, for fast-time simulation of conventional and UTM traffic.
 - [BlueSky-Gym](https://github.com/TUDelft-CNS-ATM/bluesky-gym) - Gymnasium-style environments for reinforcement learning research in air traffic management, built on BlueSky.
-- [BluebirdATC](https://github.com/project-bluebird/BluebirdATC) - Digital twin of UK airspace for ATC simulation and a training environment for AI agents, from the NATS, Exeter and Alan Turing Institute partnership.
 - [Mercury](https://github.com/UoW-ATM/Mercury) - Agent-based simulator of European air transport mobility, tracking passengers through connections alongside aircraft trajectories.
 
 ## Tools and data
