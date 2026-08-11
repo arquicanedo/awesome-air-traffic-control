@@ -49,7 +49,7 @@ there are no ratings, prices, or maintenance-status labels here on purpose.
 - [MultiScope](https://store.steampowered.com/app/4832540/MultiScope_Air_Traffic_Control/) - Approach control at Amsterdam Schiphol, with local voice recognition.
 - [ProjectATC](https://www.projectatc.com/) - Air traffic control simulator.
 - [Radar Identified](https://radar-identified.com/) - Enroute control in German airspace, browser-based.
-- [SECTOR](https://sector.mx) - Approach and enroute control in Mexican and US airspace, with Spanish and English voice control.
+- [SECTOR.mx](https://sector.mx) - Approach and enroute control in Mexican and US airspace, with Spanish and English voice control.
 - [Skybound ATC](https://etellal.itch.io/skybound-atc) - Browser-based approach control with ILS procedures and emergencies, at airports including St. Barth, Hamburg and Heathrow.
 - [Tower! Simulator 3](https://store.steampowered.com/app/2176130/Tower_Simulator_3/) - Tower control from a 3D tower cab across eleven airports, with voice recognition and multiplayer splitting ground, tower and departure.
 - [Unmatched Air Traffic Control](https://play.google.com/store/apps/details?id=com.vector3d.uatc) - Tower and ground control on mobile, sequencing arrivals, departures and taxi routes.
