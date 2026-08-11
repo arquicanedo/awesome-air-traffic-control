@@ -1,7 +1,6 @@
 # Contributing
 
-Adding your own project is fine and encouraged. Nobody knows this software better
-than the people who build it.
+Adding your own project is welcome.
 
 ## Adding an entry
 
@@ -13,8 +12,9 @@ Open a pull request that edits `README.md`. One entry per line, in this shape:
 
 - Put it in alphabetical order inside its section.
 - Link to the project's own page: a homepage, a store page, or a repository.
-- Describe what the software does. Do not describe how good it is.
-- One sentence. If it needs two, the second one is probably a feature list.
+- Describe what the software does, not how good it is.
+- Prefer the project's own wording over a paraphrase.
+- One sentence.
 
 ## What gets accepted
 
@@ -27,9 +27,7 @@ announced but not yet usable in some form.
 
 ## What this list does not do
 
-No ratings, no prices, no review scores, no maintenance-status labels. Those go
-stale, they invite argument, and they are not what the list is for. If a project
-is dead, the link will show it.
+No ratings, no prices, no review scores, no maintenance-status labels.
 
 If a project has changed enough that its description is now wrong, a pull request
 fixing the description is as welcome as a new entry.
