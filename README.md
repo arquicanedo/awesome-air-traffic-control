@@ -32,7 +32,7 @@ there are no ratings, prices, or maintenance-status labels here on purpose.
 - [ATC-pie](https://sourceforge.net/projects/atc-pie/) - Tower and radar simulation with solo, multiplayer, and teacher-student sessions. Connects to FSD networks and integrates with FlightGear.
 - [Co-ATC](https://github.com/yegors/co-atc) - Air traffic control simulation project.
 - [openScope](https://www.openscope.co/) - Browser-based radar simulator covering real airspace, with a community-maintained airport library.
-- [Vice](https://pharr.org/vice/) - Radar client and simulator.
+- [Vice](https://pharr.org/vice/) - Simulation of the STARS system for TRACON and the ERAM system for enroute, with single-player and multi-controller modes.
 
 ### Proprietary
 
