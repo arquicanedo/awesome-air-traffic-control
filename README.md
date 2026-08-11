@@ -43,7 +43,7 @@ there are no ratings, prices, or maintenance-status labels here on purpose.
 - [Endless ATC](https://store.steampowered.com/app/666610/Endless_ATC/) - Approach control at nine real-world airports, with wind, wake turbulence, go-arounds and pilot speech.
 - [Flight Level](https://store.steampowered.com/app/2105450/Flight_Level/) - Area and approach control.
 - [Global ATC Simulator](https://store.steampowered.com/app/270830/Global_ATC_Simulator/) - Tower and approach control with worldwide airport coverage.
-- [London Control](https://londoncontrol.com/) - London, Scottish and Terminal Control airspace modeled on NATS operations, with voice recognition and AIRAC-sourced flight plans.
+- [London Control](https://londoncontrol.com/) - Area, terminal and approach positions across London, Scottish and Terminal Control airspace, with voice recognition and AIRAC-sourced flight plans.
 - [MultiScope](https://store.steampowered.com/app/4832540/MultiScope_Air_Traffic_Control/) - Approach control at Amsterdam Schiphol, with local voice recognition.
 - [ProjectATC](https://www.projectatc.com/) - Air traffic control simulator.
 - [Radar Identified](https://radar-identified.com/) - Enroute control in German airspace, browser-based.
