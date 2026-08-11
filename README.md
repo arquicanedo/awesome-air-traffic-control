@@ -38,17 +38,21 @@ there are no ratings, prices, or maintenance-status labels here on purpose.
 
 - [Air Traffic Greenlight](https://store.steampowered.com/app/1861880/Air_Traffic_Greenlight/) - Spatial routing game built on real city geography and elevation data.
 - [Airflow](https://store.steampowered.com/app/1693800/Airflow/) - Enroute and approach control across US ARTCCs.
+- [Airport Madness 3D](https://store.steampowered.com/app/445770/Airport_Madness_3D/) - Tower control from a 3D tower cab, with airport layouts and terrain built from real-world data.
 - [Airwave](https://arwv.cc/) - Browser-based approach control.
 - [ATC-SIM](https://atc-sim.com/) - Browser-based approach control at major international airports, with adjustable difficulty and wind.
 - [Endless ATC](https://store.steampowered.com/app/666610/Endless_ATC/) - Approach control at nine real-world airports, with wind, wake turbulence, go-arounds and pilot speech.
 - [Flight Level](https://store.steampowered.com/app/2105450/Flight_Level/) - Area and approach control.
 - [Global ATC Simulator](https://store.steampowered.com/app/270830/Global_ATC_Simulator/) - Tower and approach control with worldwide airport coverage.
+- [I am an Air Traffic Controller 4](https://store.steampowered.com/app/1348390/) - Tower control at Tokyo Haneda, with scenario-based play across the airport's four runways.
 - [London Control](https://londoncontrol.com/) - Area, terminal and approach positions across London, Scottish and Terminal Control airspace, with voice recognition and AIRAC-sourced flight plans.
 - [MultiScope](https://store.steampowered.com/app/4832540/MultiScope_Air_Traffic_Control/) - Approach control at Amsterdam Schiphol, with local voice recognition.
 - [ProjectATC](https://www.projectatc.com/) - Air traffic control simulator.
 - [Radar Identified](https://radar-identified.com/) - Enroute control in German airspace, browser-based.
 - [SECTOR](https://sector.mx) - Approach and enroute control in Mexican and US airspace, with Spanish and English voice control.
 - [Skybound ATC](https://etellal.itch.io/skybound-atc) - Browser-based approach control with ILS procedures and emergencies, at airports including St. Barth, Hamburg and Heathrow.
+- [Tower! Simulator 3](https://store.steampowered.com/app/2176130/Tower_Simulator_3/) - Tower control from a 3D tower cab across eleven airports, with voice recognition and multiplayer splitting ground, tower and departure.
+- [Unmatched Air Traffic Control](https://play.google.com/store/apps/details?id=com.vector3d.uatc) - Tower and ground control on mobile, sequencing arrivals, departures and taxi routes.
 - [vectorheavy](https://vectorheavy.com/play) - Browser-based vectoring practice.
 - [VoiceATC Simulator](https://store.steampowered.com/app/3529560/VoiceATC_Simulator/) - Tower and approach control driven by local speech recognition.
 - [Xavius Air Traffic Control Center](http://www.xavius.com/atcc.html) - Approach and enroute radar sectors in the New York, Chicago and Los Angeles facilities.
