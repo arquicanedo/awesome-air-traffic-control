@@ -72,16 +72,24 @@ traffic alone.
 ## Research
 
 Simulators and environments built for studying the air traffic system rather than
-for practising the job.
+for practising the job. Open software only, not a bibliography: much of the work in
+this field (NASA's FACET and Sherlock, EUROCONTROL's NEST and BADA) is internal or
+license-gated and has no public release to link.
 
+- [AirTrafficSim](https://github.com/HKUST-OCTAD-LAB/AirTrafficSim) - Web-based air traffic simulation and visualization platform for ATM research, with an integrated weather database.
 - [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - Open source air traffic simulator from TU Delft, for fast-time simulation of conventional and UTM traffic.
 - [BlueSky-Gym](https://github.com/TUDelft-CNS-ATM/bluesky-gym) - Gymnasium-style environments for reinforcement learning research in air traffic management, built on BlueSky.
 - [BluebirdATC](https://github.com/project-bluebird/BluebirdATC) - Digital twin of UK airspace for ATC simulation and a training environment for AI agents, from the NATS, Exeter and Alan Turing Institute partnership.
+- [Mercury](https://github.com/UoW-ATM/Mercury) - Agent-based simulator of European air transport mobility, tracking passengers through connections alongside aircraft trajectories.
 
 ## Tools and data
 
+- [OpenAP](https://github.com/junzis/openap) - Open aircraft performance model and Python toolkit, covering drag, thrust, fuel burn and flight phases.
+- [pyModeS](https://github.com/junzis/pyModeS) - Python decoder for Mode S and ADS-B signals.
+- [pyopensky](https://github.com/open-aviation/pyopensky) - Python interface to the OpenSky Network database.
 - [runways-in-use](https://github.com/L13w/runways-in-use) - Parses D-ATIS to determine active runway configurations at US airports, available via API.
 - [SimAware TRACON](https://github.com/vatsimnetwork/simaware-tracon-project) - Updated TRACON boundaries for SimAware.
+- [traffic](https://github.com/xoolive/traffic) - Toolbox for processing and analysing air traffic data from ADS-B sources and EUROCONTROL DDR files.
 
 ## Training and reference
 
@@ -93,6 +101,7 @@ for practising the job.
 
 ## Related lists
 
+- [atmdata](https://open-aviation.github.io/atmdata/) - Curated index of air traffic management data sources and tools.
 - [awesome-vatsim](https://github.com/Epse/awesome-vatsim) - Open source projects for the VATSIM network.
 
 ## Contributing
