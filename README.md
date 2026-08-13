@@ -2,15 +2,11 @@
 
 > Air traffic control simulators, radar clients, tools, and training software.
 
-Software a controller, a trainee, or someone studying the job would use or learn
-from: simulators, network radar clients, data and navigation tooling, and training
-material.
+Software a controller, a trainee, or someone studying the job would use or learn from: simulators, network radar clients, data and navigation tooling, and training material.
 
-Out of scope: flight simulators and pilot-side add-ons, flight trackers, and
-airline or airport management games where control is incidental.
+Out of scope: flight simulators and pilot-side add-ons, flight trackers, and airline or airport management games where control is incidental.
 
-Entries are alphabetical within each section. The ordering is not a ranking, and
-there are no ratings, prices, or maintenance-status labels here on purpose.
+Entries are alphabetical within each section. The ordering is not a ranking, and there are no ratings, prices, or maintenance-status labels here on purpose.
 
 ## Contents
 
@@ -59,8 +55,7 @@ there are no ratings, prices, or maintenance-status labels here on purpose.
 
 ## Network controller clients
 
-Software for controlling on live virtual networks rather than against simulated
-traffic alone.
+Software for controlling on live virtual networks rather than against simulated traffic alone.
 
 - [CRC](https://vnas.vatsim.net/crc) - Controlling client simulating US National Airspace System displays including STARS, ERAM, ASDE-X and the tower cab, part of the vNAS suite.
 - [EuroScope](https://www.euroscope.hu/wp/) - VATSIM radar scope, extensible through plugins.
@@ -69,10 +64,7 @@ traffic alone.
 
 ## Research
 
-Simulators and environments built for studying the air traffic system rather than
-for practising the job. Open software only, not a bibliography: much of the work in
-this field (NASA's FACET and Sherlock, EUROCONTROL's NEST and BADA) is internal or
-license-gated and has no public release to link.
+Simulators and environments built for studying the air traffic system rather than for practising the job. Open software only, not a bibliography: much of the work in this field (NASA's FACET and Sherlock, EUROCONTROL's NEST and BADA) is internal or license-gated and has no public release to link.
 
 - [AirTrafficSim](https://github.com/HKUST-OCTAD-LAB/AirTrafficSim) - Web-based air traffic simulation and visualization platform for ATM research, with an integrated weather database.
 - [BluebirdATC](https://github.com/project-bluebird/BluebirdATC) - Digital twin of UK airspace for ATC simulation and a training environment for AI agents, from the NATS, Exeter and Alan Turing Institute partnership.
@@ -104,5 +96,4 @@ license-gated and has no public release to link.
 
 ## Contributing
 
-Additions are welcome, including your own project. See
-[CONTRIBUTING.md](CONTRIBUTING.md).
+Additions are welcome, including your own project. See [CONTRIBUTING.md](CONTRIBUTING.md).
