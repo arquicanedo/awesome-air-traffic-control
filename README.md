@@ -1,8 +1,6 @@
-# Awesome Air Traffic Control
+# Awesome Air Traffic Control [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Air traffic control simulators, radar clients, tools, and training software.
-
-## Scope
+> Air traffic control simulators, radar clients, tools, and training software.
 
 Software a controller, a trainee, or someone studying the job would use or learn
 from: simulators, network radar clients, data and navigation tooling, and training
@@ -108,7 +106,3 @@ license-gated and has no public release to link.
 
 Additions are welcome, including your own project. See
 [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-[CC0 1.0 Universal](LICENSE). Contributions are released under the same terms.
