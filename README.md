@@ -24,6 +24,7 @@ Entries are alphabetical within each section. The ordering is not a ranking, and
 
 ### Open source
 
+- [Auto Traffic Control](https://auto-traffic-control.com/) - A video game played by programming. The task is to create a program that can safely manage the airspace above two airports.
 - [ATC-pie](https://sourceforge.net/projects/atc-pie/) - Simulation with solo, multiplayer and teacher-student sessions, connecting to FGMS and FSD networks and integrating with FlightGear.
 - [Co-ATC](https://github.com/yegors/co-atc) - Simulator that uses local SDRs for ADS-B telemetry and VHF comms, with optional AI capabilities.
 - [openScope](https://www.openscope.co/) - Browser-based radar simulator with community-contributed airports.
@@ -58,6 +59,11 @@ Entries are alphabetical within each section. The ordering is not a ranking, and
 Games built around a radar picture rather than around the job itself.
 
 - [Air Defender](https://store.steampowered.com/app/3985030/Air_Defender/) - Manage a nation's air defenses, analyzing radar contacts and scrambling interceptors.
+- [Airpordle](https://airpordle.com/) - Land planes by drawing lines into the runway. Cool black and white theme.
+- [Airport Simulator](https://airport.apunen.com/) - Land planes by drawing a path in 3D.
+- [Mini Airways](https://store.steampowered.com/app/2289650/Mini_Airways__ATC_simulator/) - Manage takeoffs and landings and prevent crashes.
+- [OptiFlight](https://www.krishsuchdev.com/OptiFlight) - OptiFlight is similar to mini metro for planes.
+
 
 ## Network controller clients
 
