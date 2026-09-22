@@ -1,6 +1,6 @@
 # Awesome Air Traffic Control [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Air traffic control simulators, radar clients, tools, and training software.
+> Directing aircraft through controlled airspace and on the ground.
 
 Software a controller, a trainee, or someone studying the job would use or learn from: simulators, network radar clients, data and navigation tooling, and training material.
 
