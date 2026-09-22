@@ -4,7 +4,7 @@
 
 Software a controller, a trainee, or someone studying the job would use or learn from: simulators, network radar clients, data and navigation tooling, and training material.
 
-Out of scope: flight simulators and pilot-side add-ons, flight trackers, and airline or airport management games where control is incidental.
+Out of scope: flight simulators and pilot-side add-ons, flight trackers, and airline or airport management games where the traffic runs itself. Games built around working a radar picture are in scope and kept in their own section.
 
 Entries are alphabetical within each section. The ordering is not a ranking, and there are no ratings, prices, or maintenance-status labels here on purpose.
 
@@ -13,6 +13,7 @@ Entries are alphabetical within each section. The ordering is not a ranking, and
 - [Simulators](#simulators)
   - [Open source](#open-source)
   - [Proprietary](#proprietary)
+- [Arcade and strategy games](#arcade-and-strategy-games)
 - [Network controller clients](#network-controller-clients)
 - [Research](#research)
 - [Tools and data](#tools-and-data)
@@ -30,7 +31,6 @@ Entries are alphabetical within each section. The ordering is not a ranking, and
 
 ### Proprietary
 
-- [Air Defender](https://store.steampowered.com/app/3985030/Air_Defender/) - Manage a nation's air defenses, analyzing radar contacts and scrambling interceptors.
 - [Air Traffic Greenlight](https://store.steampowered.com/app/1861880/Air_Traffic_Greenlight/) - Control aircraft where radar coverage is limited, across 12 cities and 25 airports built on real elevation data.
 - [Airflow](https://store.steampowered.com/app/1693800/Airflow/) - Approach control at Seattle ARTCC in early access, with Salt Lake City as a separate region.
 - [Airport Madness 3D](https://store.steampowered.com/app/445770/Airport_Madness_3D/) - Tower control from a 3D tower cab, with airport layouts and terrain built from real-world data.
@@ -52,6 +52,12 @@ Entries are alphabetical within each section. The ordering is not a ranking, and
 - [vectorheavy](https://vectorheavy.com/play) - Free browser-based ATC simulator.
 - [VoiceATC Simulator](https://store.steampowered.com/app/3529560/VoiceATC_Simulator/) - Arrival and departure traffic by voice or by clicking aircraft labels, with local speech recognition and Navigraph AIRAC support.
 - [Xavius Air Traffic Control Center](http://www.xavius.com/atcc.html) - Approach and enroute radar sectors in the New York, Chicago and Los Angeles facilities.
+
+## Arcade and strategy games
+
+Games built around a radar picture rather than around the job itself.
+
+- [Air Defender](https://store.steampowered.com/app/3985030/Air_Defender/) - Manage a nation's air defenses, analyzing radar contacts and scrambling interceptors.
 
 ## Network controller clients
 
