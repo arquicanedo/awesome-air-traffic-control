@@ -32,6 +32,7 @@ Entries are alphabetical within each section. The ordering is not a ranking, and
 ### Proprietary
 
 - [Air Traffic Greenlight](https://store.steampowered.com/app/1861880/Air_Traffic_Greenlight/) - Control aircraft where radar coverage is limited, across 12 cities and 25 airports built on real elevation data.
+- [Air Defender](https://store.steampowered.com/app/3985030/Air_Defender/) - Manage a nation's air defenses, analyzing radar contacts and scrambling interceptors.
 - [Airflow](https://store.steampowered.com/app/1693800/Airflow/) - Approach control at Seattle ARTCC in early access, with Salt Lake City as a separate region.
 - [Airport Madness 3D](https://store.steampowered.com/app/445770/Airport_Madness_3D/) - Tower control from a 3D tower cab, with airport layouts and terrain built from real-world data.
 - [Airwave](https://arwv.cc/) - Open-world sim covering approach, departure, tower and ground at any airport, with voice control and multiplayer, in alpha.
@@ -82,12 +83,11 @@ Simulators and environments built for studying the air traffic system rather tha
 - [traffic](https://github.com/xoolive/traffic) - Toolbox for processing and analysing air traffic data from ADS-B sources and EUROCONTROL DDR files.
 
 ## Training and reference
-
+- [NASA Sector 33 Classroom](https://atcsim.nasa.gov/simulator/sim2/sector33.html) - LineUp with Math, Math-Based Decisions in Air Traffic Control.
 - [Visual Vectoring](https://visualvectoring.com/) - On-demand simulation training for air traffic control, aimed at ANSPs, training organizations and universities.
 
-## Adjacent
 
-- [Air Defender](https://store.steampowered.com/app/3985030/Air_Defender/) - Manage a nation's air defenses, analyzing radar contacts and scrambling interceptors.
+
 
 ## Related lists
 
