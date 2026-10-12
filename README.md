@@ -28,6 +28,7 @@ Entries are alphabetical within each section. The ordering is not a ranking, and
 - [Auto Traffic Control](https://auto-traffic-control.com/) - Game played by writing a program that safely manages the airspace above two airports.
 - [Co-ATC](https://github.com/yegors/co-atc) - Simulator that uses local SDRs for ADS-B telemetry and VHF comms, with optional AI capabilities.
 - [openScope](https://www.openscope.co/) - Browser-based radar simulator with community-contributed airports.
+- [TRACS](https://github.com/denimchickensoft/TRACS/) - Tactical Radar And Control Suite for DCS, military radar simulator including carrier and AWACS.
 - [Vice](https://pharr.org/vice/) - Simulation of the STARS system for TRACON and the ERAM system for enroute, with single-player and multi-controller modes.
 
 ### Proprietary
@@ -43,6 +44,7 @@ Entries are alphabetical within each section. The ordering is not a ranking, and
 - [Global ATC Simulator](https://store.steampowered.com/app/270830/Global_ATC_Simulator/) - Tower, approach and departure control at close to 14,000 airports, using the NavDataPro database.
 - [I am an Air Traffic Controller 4](https://store.steampowered.com/app/1348390/) - Tower control at Tokyo Haneda, with scenario-based play across the airport's four runways.
 - [London Control](https://londoncontrol.com/) - Area, terminal and approach positions across London, Scottish and Terminal Control airspace, with voice recognition and AIRAC-sourced flight plans.
+- [LotAtc](https://www.lotatc.com/) - Air traffic control and intercept control for DCS, military radar simulator.
 - [MultiScope](https://store.steampowered.com/app/4832540/MultiScope_Air_Traffic_Control/) - Approach control at Amsterdam Schiphol, with push-to-talk voice recognition on Windows.
 - [ProjectATC](https://www.projectatc.com/) - Browser-based simulator with five connected positions from clearance through approach, at ten US airports.
 - [Radar Identified](https://radar-identified.com/) - Enroute control across five German and four US Northeast sectors, for Windows and macOS.
