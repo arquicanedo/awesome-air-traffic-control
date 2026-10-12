@@ -42,6 +42,7 @@ Entries are alphabetical within each section. The ordering is not a ranking, and
 - [Endless ATC](https://store.steampowered.com/app/666610/Endless_ATC/) - Approach control at nine real-world airports, with wind, wake turbulence, go-arounds and pilot speech.
 - [Flight Level](https://store.steampowered.com/app/2105450/Flight_Level/) - Area and approach control with built-in airspace and scenario editors, made by radar controllers.
 - [Global ATC Simulator](https://store.steampowered.com/app/270830/Global_ATC_Simulator/) - Tower, approach and departure control at close to 14,000 airports, using the NavDataPro database.
+- [Heathrow Air Traffic Control](https://bbcmicro.co.uk/game.php?id=1373) - Bring aircraft in to land at Heathrow, in a 1984 BBC Micro game playable in the browser.
 - [I am an Air Traffic Controller 4](https://store.steampowered.com/app/1348390/) - Tower control at Tokyo Haneda, with scenario-based play across the airport's four runways.
 - [London Control](https://londoncontrol.com/) - Area, terminal and approach positions across London, Scottish and Terminal Control airspace, with voice recognition and AIRAC-sourced flight plans.
 - [LotAtc](https://www.lotatc.com/) - ATC and GCI simulator for DCS World, with client and server software that can also run standalone.
