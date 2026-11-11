@@ -54,6 +54,7 @@ Entries are alphabetical within each section. The ordering is not a ranking, and
 - [Tower! Simulator 3](https://store.steampowered.com/app/2176130/Tower_Simulator_3/) - Tower control from a 3D tower cab across eleven airports, with voice recognition and multiplayer splitting ground, tower and departure.
 - [TWRCTRL](https://twrctrl.com/) - Browser-based tower and ground control, from pushback and taxi through takeoff, landing and vacating, with clearances typed into a radio field.
 - [Unmatched Air Traffic Control](https://play.google.com/store/apps/details?id=com.vector3d.uatc) - Guide aircraft to landing, parking and takeoff at a busy airport, on Android and Windows.
+- [Vectavor](https://vectavor.vercel.app/) - Browser-based Heathrow simulator where arrivals and departures fly their published STARs and SIDs and the controller keeps them separated, with typed commands and holding at BIG, OCK, LAM and BNN.
 - [vectorheavy](https://vectorheavy.com/play) - Free browser-based ATC simulator.
 - [VoiceATC Simulator](https://store.steampowered.com/app/3529560/VoiceATC_Simulator/) - Arrival and departure traffic by voice or by clicking aircraft labels, with local speech recognition and Navigraph AIRAC support.
 - [Xavius Air Traffic Control Center](http://www.xavius.com/atcc.html) - Approach and enroute radar sectors in the New York, Chicago and Los Angeles facilities.
