@@ -37,6 +37,7 @@ Entries are alphabetical within each section. The ordering is not a ranking, and
 - [Airflow](https://store.steampowered.com/app/1693800/Airflow/) - Approach control at Seattle ARTCC in early access, with Salt Lake City as a separate region.
 - [Airport Madness 3D](https://store.steampowered.com/app/445770/Airport_Madness_3D/) - Tower control from a 3D tower cab, with airport layouts and terrain built from real-world data.
 - [Airwave](https://arwv.cc/) - Open-world sim covering approach, departure, tower and ground at any airport, with voice control and multiplayer, in alpha.
+- [Approach Control (Remastered)](https://bigfatsimulations.com/game/approachcontrolremastered) - Approach control across 10 radar sectors with ICAO separation and wake turbulence spacing, designed by real-world controllers, with voice recognition on PC and Mac.
 - [ATC Simulator 2](https://www.atcsimulator.com/) - Standalone TRACON simulator for Windows, used at universities in the United States.
 - [ATC-SIM](https://atc-sim.com/) - Browser-based approach control at major international airports, with adjustable difficulty and wind.
 - [Endless ATC](https://store.steampowered.com/app/666610/Endless_ATC/) - Approach control at nine real-world airports, with wind, wake turbulence, go-arounds and pilot speech.
